@@ -1,4 +1,4 @@
-    // Acá vas a declarar tu objeto literal
+
     let contenedor = {
       datos: [
         { nombre: "RTX 4090", 
